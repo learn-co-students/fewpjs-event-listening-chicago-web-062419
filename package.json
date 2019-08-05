@@ -18,5 +18,8 @@
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1",
     "sinon": "^7.2.7"
+  },
+  "dependencies": {
+    "eslint": "^6.1.0"
   }
 }
